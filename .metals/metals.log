@@ -1,0 +1,116 @@
+2023.02.07 20:44:10 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/alex/Git/Function-Programming-1/.metals/lsp.trace.json or /home/alex/.cache/metals/lsp.trace.json
+2023.02.07 20:44:11 INFO  logging to file /home/alex/Git/Function-Programming-1/.metals/metals.log
+2023.02.07 20:44:11 INFO  Started: Metals version 0.11.10 in workspace '/home/alex/Git/Function-Programming-1' for client Visual Studio Code 1.75.0.
+2023.02.07 20:44:11 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(11), jdkHome: /usr/lib/jvm/java-11-openjdk-amd64, javac exists: false)
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/alex/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.07 20:44:11 INFO  time: initialize in 0.63s
+2023.02.07 20:44:13 WARN  Build server is not auto-connectable.
+2023.02.07 20:44:13 WARN  no build tool detected in workspace '/home/alex/Git/Function-Programming-1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.07 20:44:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.07 20:44:31 INFO  no build target found for /home/alex/Git/Function-Programming-1/Problem1.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.07 20:44:32 INFO  time: code lens generation in 19s
+2023.02.07 20:44:32 INFO  time: code lens generation in 11s
+2023.02.07 21:01:17 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.07 21:01:52 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.07 21:02:01 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.07 21:02:05 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.07 21:48:45 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.08 08:29:14 INFO  shutting down Metals
+2023.02.09 14:01:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/alex/Git/Function-Programming-1/.metals/lsp.trace.json or /home/alex/.cache/metals/lsp.trace.json
+2023.02.09 14:01:24 INFO  logging to file /home/alex/Git/Function-Programming-1/.metals/metals.log
+2023.02.09 14:01:24 INFO  Started: Metals version 0.11.10 in workspace '/home/alex/Git/Function-Programming-1' for client Visual Studio Code 1.75.0.
+2023.02.09 14:01:24 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(11), jdkHome: /usr/lib/jvm/java-11-openjdk-amd64, javac exists: false)
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/alex/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.09 14:01:24 INFO  time: initialize in 0.58s
+2023.02.09 14:01:26 WARN  Build server is not auto-connectable.
+2023.02.09 14:01:26 WARN  no build tool detected in workspace '/home/alex/Git/Function-Programming-1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.09 14:01:26 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 14:01:28 INFO  no build target found for /home/alex/Git/Function-Programming-1/Problem1.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.09 14:01:30 INFO  time: code lens generation in 3.93s
+2023.02.09 14:53:45 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 14:54:04 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 2:54:26 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 139
+2023.02.09 14:54:32 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 14:54:55 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 14:55:58 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 14:58:06 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 2:58:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 226
+2023.02.09 14:58:17 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 2:59:30 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 335
+2023.02.09 14:59:46 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 3:00:09 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 422
+Feb. 09, 2023 3:00:22 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+2023.02.09 15:00:25 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 3:02:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 723
+Feb. 09, 2023 3:02:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 724
+2023.02.09 15:02:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 3:02:37 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 775
+2023.02.09 15:02:49 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:02:53 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:02:58 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 3:06:07 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 954
+2023.02.09 15:06:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:08:19 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:09:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:10:02 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:10:11 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:12:03 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:12:19 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:12:33 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:13:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:14:22 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:14:57 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:15:25 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:15:42 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:15:47 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:15:49 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+Feb. 09, 2023 3:20:21 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1740
+2023.02.09 15:20:24 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:21:03 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:21:32 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:22:17 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:22:55 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:24:01 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:24:22 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:24:30 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:24:54 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:26:54 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:22 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:40 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:44 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:46 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:48 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:27:57 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:28:00 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:28:09 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:28:28 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:31:31 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:33:43 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:35:42 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:35:51 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:35:54 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:49:14 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:51:42 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:52:54 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.09 15:59:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
