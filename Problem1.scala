@@ -60,8 +60,19 @@ object Problem1 {
     }
 
     /* Problem 1 Part E */
-    def howManyShuffles[A] (l1: List[A], l2: List[A])(f:List[A] => List[A]): Int = (l1, l2, f) match {
-        case (_, _, _) => 2
+    def howManyShuffles[A] (l1: List[A], l2: List[A])(f:List[A] => List[A]): Int = {
+        // case (_, _, _) => 2
+
+        // val shuffle_count = 0
+        def go(first: List[A], count: Int): Int  =  {
+            // case (_, _) => 
+                if (first.equals(l2)) count
+                else {
+                    // val newCount = count + 1
+                    go(f(first), count + 1)
+                }
+        }
+        go(f(l1), 1)
     }
 
 
@@ -101,9 +112,41 @@ object Problem1 {
         // val remaining2 = prob1_partc_Inshuffle.
 
         /* Test Problem 1 Part D */
-        val l6 = List(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+        // val l6 = List(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 
-        println(nshuffle(l6, 10)(outshuffle))
+        // println(nshuffle(l6, 10)(outshuffle))
+
+        // val l7 = List(1, 2, 3)
+        // val l8 = List(1, 2, 3)
+        // val l9 = List(4, 5, 6)
+
+        // val result = l7.equals(l8)
+
+        // println(result)
+
+        // if (result) {
+        //     println("yes")
+        // }
+
+        // val result2 = l8.equals(l9)
+
+        // if (result2) {
+        //     println("yes")
+        // } else  {
+        //     println("np")
+        // }
+
+        /* Test Problem 1 Part E */
+
+        val partE_list1 = List(1, 2, 3, 4, 5, 6)
+
+        val partE_list2 = List(1, 3, 5, 2, 4, 6)
+
+        println(howManyShuffles(partE_list1, partE_list2)(outshuffle))
+
+        // println(nshuffle(partE_list1, 3)(outshuffle))
+
+
 
 
 
