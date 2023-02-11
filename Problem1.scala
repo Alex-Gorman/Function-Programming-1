@@ -47,6 +47,7 @@ object Problem1 {
     }
 
     /* Problem 1 Part D */
+    // @tailrec
     def nshuffle[A] (l1: List[A], n: Int)(f:List[A] => List[A]): List[A] = (l1, n, f) match {
         case (_, _, _) =>
             // f(l1)
@@ -55,7 +56,7 @@ object Problem1 {
             else {
                 // val l2 = nshuffle(l1, n-1)(f)
                 // val l2 = outshuffle(l1)
-                nshuffle(outshuffle(l1), n-1)(f)
+                nshuffle(f(l1), n-1)(f)
             }
     }
 
