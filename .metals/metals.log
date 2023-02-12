@@ -541,3 +541,309 @@ WARNING: Unmatched cancel notification for request id 19940
 2023.02.10 21:01:34 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
 2023.02.10 21:01:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
 2023.02.10 21:01:43 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 21:02:54 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 21:10:19 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:23:41 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:24:08 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:27:02 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:28:31 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:31:26 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:32:07 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:32:25 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.10 23:32:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:51:09 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:51:19 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:51:36 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:52:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:53:02 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:53:10 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 15:53:36 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+Feb. 11, 2023 3:54:30 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb. 11, 2023 3:54:31 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.11 16:47:16 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:48:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:48:37 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:48:59 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:49:07 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:49:10 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:49:42 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:50:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:50:28 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:50:32 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:50:36 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:51:20 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:51:23 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:51:27 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:53:12 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:53:16 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:53:30 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:53:44 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:54:15 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:54:52 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:54:56 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:55:09 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:55:15 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:55:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:55:39 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:55:49 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:56:03 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:56:20 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:56:37 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:56:47 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:57:02 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:57:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+Feb. 11, 2023 4:57:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = - 9
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = - 9
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = - 9
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Init$.apply(Trees.scala:789)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$initRest$1(ScalametaParser.scala:3979)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:330)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:380)
+	at scala.meta.internal.parsers.ScalametaParser.initRest(ScalametaParser.scala:3954)
+	at scala.meta.internal.parsers.ScalametaParser.initInsideTemplate(ScalametaParser.scala:3937)
+	at scala.meta.internal.parsers.ScalametaParser.init(ScalametaParser.scala:4036)
+	at scala.meta.internal.parsers.ScalametaParser.templateParents(ScalametaParser.scala:4046)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4094)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4082)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$2(ScalametaParser.scala:2137)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2135)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2103)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2086)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2005)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1631)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:330)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:380)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1532)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1419)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1443)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3427)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:382)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3413)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3372)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4360)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4385)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4370)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:541)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4370)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2394)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2396)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2393)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2390)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$scala$meta$internal$parsers$ScalametaParser$$getArgClause$1(ScalametaParser.scala:2353)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$getArgClause(ScalametaParser.scala:2351)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExprRest(ScalametaParser.scala:2233)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$condExprInParens$1(ScalametaParser.scala:1503)
+	at scala.meta.internal.parsers.ScalametaParser.tryParse(ScalametaParser.scala:218)
+	at scala.meta.internal.parsers.ScalametaParser.condExprInParens(ScalametaParser.scala:1502)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$ifClause$1(ScalametaParser.scala:1483)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:382)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.ifClause(ScalametaParser.scala:1479)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1538)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:330)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:380)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1532)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$3(ScalametaParser.scala:4388)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4244)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4388)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4370)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:541)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4370)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2394)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2396)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2393)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2390)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2132)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2103)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2086)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2005)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1631)
+	at scala.meta.internal.parsers.ScalametaParser.atPosOpt(ScalametaParser.scala:330)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosOpt(ScalametaParser.scala:380)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1532)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1419)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1443)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3646)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:382)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3612)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3556)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3378)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3357)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4317)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4311)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4263)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1(ScalametaParser.scala:4303)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1$adapted(ScalametaParser.scala:4302)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:541)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4302)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4151)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4151)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4159)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4140)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4114)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3847)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:382)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3839)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3715)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3696)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4282)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4263)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$14(ScalametaParser.scala:4476)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4476)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4431)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4424)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:327)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4424)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4429)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:126)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:48)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:126)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:129)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:122)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:92)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:321)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.02.11 16:57:21 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:57:35 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:57:49 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:57:50 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 16:58:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:01:52 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:02:19 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:06:40 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+Feb. 11, 2023 5:08:19 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.11 17:09:30 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:09:55 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:10:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:12:07 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:12:10 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:12:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:12:23 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:12:33 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:12:55 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:13:43 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem1.scala
+2023.02.11 17:15:00 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:15:22 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:23:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:24:13 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:24:25 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:26:00 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:26:29 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:26:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:26:45 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:27:02 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:27:05 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:31:08 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:31:23 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:31:47 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:32:16 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:40:37 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:41:01 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:41:14 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:41:19 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+Feb. 11, 2023 5:41:32 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24052
+2023.02.11 17:41:37 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:41:47 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:42:03 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:42:05 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:42:11 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:44:04 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+Feb. 11, 2023 5:48:24 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24303
+2023.02.11 17:48:28 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:48:28 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:48:31 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:48:35 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:49:00 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:49:03 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+Feb. 11, 2023 5:49:10 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24449
+2023.02.11 17:49:12 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:49:53 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:50:23 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:50:26 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:58:00 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:58:33 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 17:58:38 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:00:43 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:01:03 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:01:42 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:03:12 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:03:15 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:03:51 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:04:06 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:04:08 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:04:58 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:05:28 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:07:43 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:08:28 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:08:45 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:08:50 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:09:01 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:11:39 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:11:52 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:12:30 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:12:39 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
+2023.02.11 18:12:52 WARN  no build target for: /home/alex/Git/Function-Programming-1/Problem3.scala
