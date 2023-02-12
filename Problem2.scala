@@ -27,13 +27,32 @@ object Problem2 {
 
     def search[A](t1: Tree[A], key:A): Boolean = {
         val lst = inOrder(t1)
-        def loop(n: Int): Int = {
-            if (n >= lst.length) -1
-            else if (lst(n) == key) n
-            else loop(n+1)
+        // def loop(n: Int): Int = {
+        //     if (n >= lst.length) -1
+        //     else if (lst(n) == key) n
+        //     else loop(n+1)
+        // }
+        // if (loop(0) == -1) false
+        // else true
+
+        def somefunction[A](l1: List[A]): List[A] = l1 match {
+            case Nil => Nil
+            case (x:: xs) => {
+                if (x.equals(key)) {
+                    (x :: Nil)
+                } else {
+                     somefunction(xs)
+                }
+            }
         }
-        if (loop(0) == -1) false
-        else true
+
+        val l1 = somefunction(lst)
+        if (l1.equals(Nil)) {
+            false
+        }
+        else {
+            true
+        }
     }
 
     def replace[A](t1: Tree[A], before:A, after:A): Tree[A] = t1 match {
@@ -64,8 +83,8 @@ object Problem2 {
         // println(preOrder(t1))
         // println(postOrder(t1))
 
-        // println(search(t1, 8))
-        // println(search(t1, 1))
+        println(search(t1, 8))
+        println(search(t1, 1))
 
         println(replace(t1, 2, 100))
 

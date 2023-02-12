@@ -29,7 +29,23 @@ object Problem3 {
         val f1 = List(luhnDouble _, luhnDouble _, luhnDouble _)
         val l2 = altMap(l1)(f1)
 
-        true
+        def go(nums: List[Int], total: Int): Int = nums match {
+            case Nil =>
+                0
+            case nums =>
+                val newTotal = total + nums(0)
+                val newNewTotal = + go(nums.drop(1), newTotal)
+                newNewTotal
+        }
+
+        val totalVal = go(l1, 0)
+
+        if (totalVal % 10 == 0) {
+            true
+        }
+        else {
+            false
+        }
     }
 
 
@@ -46,5 +62,7 @@ object Problem3 {
         println(altMap(l1)(f1))
 
         val l2 =  altMap(l1)(f1)
+
+        println(luhn(l1))
     }
 }
