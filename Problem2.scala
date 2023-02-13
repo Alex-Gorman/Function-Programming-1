@@ -27,13 +27,6 @@ object Problem2 {
 
     def search[A](t1: Tree[A], key:A): Boolean = {
         val lst = inOrder(t1)
-        // def loop(n: Int): Int = {
-        //     if (n >= lst.length) -1
-        //     else if (lst(n) == key) n
-        //     else loop(n+1)
-        // }
-        // if (loop(0) == -1) false
-        // else true
 
         def somefunction[A](l1: List[A]): List[A] = l1 match {
             case Nil => Nil
@@ -69,7 +62,6 @@ object Problem2 {
 
 
     def main(args: Array[String]): Unit = {
-        // val t1 = 
         val t1: Tree[Int] = 
             Node(7, 
                 Node(1, 
@@ -79,16 +71,38 @@ object Problem2 {
                         Node(5, None, None))), 
                 Node(6, None, None))
 
-        // println(inOrder(t1))
-        // println(preOrder(t1))
-        // println(postOrder(t1))
+        println("Testing Problem 2")
 
-        println(search(t1, 8))
-        println(search(t1, 1))
+        /* Testing Part A */
+        println("")
+        println("Testing Part A")
 
-        println(replace(t1, 2, 100))
+        /* Testing inOrder() */
+        println("inOrder() given a tree: "+ t1 +" should visit the nodes in the order (2, 1, 4, 3, 5, 7, 6), " +
+          "answer of nodes visited by inOrder():" + inOrder(t1))
+        println("")
 
+        /* Testing preOrder() */
+        println("preOrder() given a tree: "+ t1 +" should visit the nodes in the order (7, 1, 2, 3, 4, 5, 6), " +
+          "answer of nodes visited by inOrder():" + preOrder(t1))
+        println("")
 
+        /* Testing postOrder() */
+        println("postOrder() given a tree: "+ t1 +" should visit the nodes in the order (2, 4, 5, 3, 1, 6, 7), " +
+          "answer of nodes visited by inOrder():" + postOrder(t1))
+        println("")
+
+        /* Testing search() */
+        println("search() given a tree: "+ t1 +" and a value of 8 to search for should return false, the answer " +
+          "search() returns: " + search(t1, 8))
+        println("")
+
+        println("search() given a tree: "+ t1 +" and a value of 8 to search for should return true, the answer " +
+          "search() returns: " + search(t1, 1))
+        println("")
+
+        /* Testing replace() */
+        println("replace() given a tree: " + t1 + "and a value to replace of 2 with a value of 100 should return the tree" +
+          "with 2 replaced by 100: "+replace(t1, 2, 100))
     }
-
 }

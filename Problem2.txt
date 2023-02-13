@@ -1,0 +1,18 @@
+alex@alex-Aspire-A515-56:~/Git/Function-Programming-1$ scalac Problem2.scala
+alex@alex-Aspire-A515-56:~/Git/Function-Programming-1$ scala Problem2
+Testing Problem 2
+
+Testing Part A
+inOrder() given a tree: Node(7,Node(1,Node(2,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None)) should visit the nodes in the order (2, 1, 4, 3, 5, 7, 6), answer of nodes visited by inOrder():List(2, 1, 4, 3, 5, 7, 6)
+
+preOrder() given a tree: Node(7,Node(1,Node(2,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None)) should visit the nodes in the order (7, 1, 2, 3, 4, 5, 6), answer of nodes visited by inOrder():List(7, 1, 2, 3, 4, 5, 6)
+
+postOrder() given a tree: Node(7,Node(1,Node(2,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None)) should visit the nodes in the order (2, 4, 5, 3, 1, 6, 7), answer of nodes visited by inOrder():List(2, 4, 5, 3, 1, 6, 7)
+
+search() given a tree: Node(7,Node(1,Node(2,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None)) and a value of 8 to search for should return false, the answer search() returns: false
+
+search() given a tree: Node(7,Node(1,Node(2,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None)) and a value of 8 to search for should return true, the answer search() returns: true
+
+replace() given a tree: Node(7,Node(1,Node(2,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None))and a value to replace of 2 with a value of 100 should return the treewith 2 replaced by 100: Node(7,Node(1,Node(100,None,None),Node(3,Node(4,None,None),Node(5,None,None))),Node(6,None,None))
+alex@alex-Aspire-A515-56:~/Git/Function-Programming-1$ 
+

@@ -1,0 +1,17 @@
+alex@alex-Aspire-A515-56:~/Git/Function-Programming-1$ scalac Problem3.scala
+alex@alex-Aspire-A515-56:~/Git/Function-Programming-1$ scala Problem3
+Testing Problem 3
+
+Testing Part A
+Luhn double of 6 should be 3, answer returned from luhnDouble(): 3
+Luhn double of 3 should be 6, answer returned from luhnDouble(): 6
+
+Testing Part B
+altmap() function given a List of (1, 2, 3, 4, 5) and a function listof (luhnDouble_, luhnDouble_, luhnDouble_) should return a list of (2, 4, 6, 8, 1), answer returned from altMap(): List(2, 4, 6, 8, 1)
+altmap() function given a List of (6, 7, 8, 9) and a function listof (luhnDouble_, luhnDouble_, luhnDouble_) should return a list of (3, 5, 7, 9), answer returned from altMap(): List(3, 5, 7, 9)
+
+Testing Part C
+luhn() function given a List of (1, 2, 3, 4) should return true, answer returned form luhn(): true
+luhn() function given a List of (3, 3, 3) should return false, answer returned form luhn(): false
+alex@alex-Aspire-A515-56:~/Git/Function-Programming-1$ 
+
